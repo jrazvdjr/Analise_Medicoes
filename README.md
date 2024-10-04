@@ -20,7 +20,9 @@ O desvio padrão é uma medida que indica a dispersão dos dados em relação à
 A incerteza média é uma medida que quantifica a precisão das medições realizadas. Ela é calculada com base na variância e fornece uma estimativa da incerteza associada à média das medições.
 
 ## Como Usar
-1. Inicie o aplicativo e adicione o número de medidas que serão realizadas.
+1. Inicie o aplicativo e informe o número de medidas que serão realizadas.
 2. Insira os valores necessários nos campos apropriados.
-3. Clique no botão "Calcular" para obter os resultados.
-4. Visualize os resultados na tela, incluindo a média, desvio padrão e incerteza média, se aplicável.
+3. Clique no botão "Criar Campos de Medidas" para informá-las.
+4. Após inserir todas as medidas clique no botão "Calcular".
+5. Será Apresentado: média, desvio padrão, incerteza média e a medida final.
+6. Por último, caso queira realizar novas medidas, clique no botão "Reiniciar" e repita o processo.
